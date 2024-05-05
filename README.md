@@ -1,1 +1,0 @@
-# insightops_kg
